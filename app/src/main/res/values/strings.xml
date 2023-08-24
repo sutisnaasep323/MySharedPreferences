@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MySharedPreferences</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">No Handphone</string>
+    <string name="age">Age</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="save">Simpan</string>
+    <string name="love_manchester_united">Suka manchester united?</string>
+    <string name="change">Ubah</string>
+    <string name="dummy_name">Narenda Wicaksono</string>
+    <string name="dummy_email">narenda@dicoding.com</string>
+    <string name="dummynumber">123456</string>
+    <string name="dummyage">30</string>
+    <string name="dummyislove">IsLoveMU</string>
+
+    <string name="nothing">Tidak Ada</string>
+    <string name="is_love">Suka Membaca Al-Qur\'an?</string>
+    <string name="key_email">email</string>
+    <string name="key_age">age</string>
+    <string name="key_phone">phone</string>
+    <string name="key_love">love</string>
+    <string name="key_name">name</string>
+    <string name="key_night">night</string>
+    <string name="key_font">font_size</string>
+
+    <string-array name="font_sizes">
+        <item>Besar</item>
+        <item>Sedang</item>
+        <item>Kecil</item>
+    </string-array>
+
+</resources>
